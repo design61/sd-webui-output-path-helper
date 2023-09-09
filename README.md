@@ -14,7 +14,10 @@
 
 ## 效果展示
 1. 界面窗口
-<img alt="Screenshot" src="https://github.com/design61/sd-webui-qrcode-checkbtn/blob/main/image/1.gif">
+<img alt="Screenshot" src="https://github.com/design61/sd-webui-output-path-helper/blob/main/image/1.png">
+
+2. 效果预览
+<img alt="Screenshot" src="https://github.com/design61/sd-webui-output-path-helper/blob/main/image/1.png">
 
 ## 安装方法
 1. 打开 `扩展` 选项卡. 
